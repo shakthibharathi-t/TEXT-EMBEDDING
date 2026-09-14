@@ -1,0 +1,5 @@
+Artificial intelligence is changing the world.
+Machine learning is a branch of artificial intelligence.
+Natural language processing helps computers understand text.
+Deep learning uses neural networks to learn patterns.
+Text embeddings represent text as numerical vectors.
