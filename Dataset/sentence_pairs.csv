@@ -1,0 +1,191 @@
+sentence_1_id,sentence_1,sentence_2_id,sentence_2
+1,Artificial intelligence is changing the way people use technology.,2,Machine learning allows computers to learn patterns from data.
+1,Artificial intelligence is changing the way people use technology.,3,Python is a popular programming language for data science.
+1,Artificial intelligence is changing the way people use technology.,4,The Earth revolves around the Sun.
+1,Artificial intelligence is changing the way people use technology.,5,Water is essential for all living organisms.
+1,Artificial intelligence is changing the way people use technology.,6,Electric vehicles use electric motors instead of traditional engines.
+1,Artificial intelligence is changing the way people use technology.,7,Cloud computing provides access to computing resources over the internet.
+1,Artificial intelligence is changing the way people use technology.,8,The internet connects computers and devices around the world.
+1,Artificial intelligence is changing the way people use technology.,9,Students use online platforms to learn new skills.
+1,Artificial intelligence is changing the way people use technology.,10,Healthy food provides important nutrients for the human body.
+1,Artificial intelligence is changing the way people use technology.,11,The ocean contains many different species of marine animals.
+1,Artificial intelligence is changing the way people use technology.,12,Renewable energy can be produced from sunlight and wind.
+1,Artificial intelligence is changing the way people use technology.,13,Mobile phones allow people to communicate from different locations.
+1,Artificial intelligence is changing the way people use technology.,14,Data science combines statistics programming and domain knowledge.
+1,Artificial intelligence is changing the way people use technology.,15,Robots can perform repetitive tasks in factories.
+1,Artificial intelligence is changing the way people use technology.,16,Natural language processing helps computers understand human language.
+1,Artificial intelligence is changing the way people use technology.,17,Space exploration helps scientists study planets and stars.
+1,Artificial intelligence is changing the way people use technology.,18,Cybersecurity protects computer systems and digital information.
+1,Artificial intelligence is changing the way people use technology.,19,Books provide information about history science and culture.
+1,Artificial intelligence is changing the way people use technology.,20,Deep learning uses neural networks to process complex data.
+2,Machine learning allows computers to learn patterns from data.,3,Python is a popular programming language for data science.
+2,Machine learning allows computers to learn patterns from data.,4,The Earth revolves around the Sun.
+2,Machine learning allows computers to learn patterns from data.,5,Water is essential for all living organisms.
+2,Machine learning allows computers to learn patterns from data.,6,Electric vehicles use electric motors instead of traditional engines.
+2,Machine learning allows computers to learn patterns from data.,7,Cloud computing provides access to computing resources over the internet.
+2,Machine learning allows computers to learn patterns from data.,8,The internet connects computers and devices around the world.
+2,Machine learning allows computers to learn patterns from data.,9,Students use online platforms to learn new skills.
+2,Machine learning allows computers to learn patterns from data.,10,Healthy food provides important nutrients for the human body.
+2,Machine learning allows computers to learn patterns from data.,11,The ocean contains many different species of marine animals.
+2,Machine learning allows computers to learn patterns from data.,12,Renewable energy can be produced from sunlight and wind.
+2,Machine learning allows computers to learn patterns from data.,13,Mobile phones allow people to communicate from different locations.
+2,Machine learning allows computers to learn patterns from data.,14,Data science combines statistics programming and domain knowledge.
+2,Machine learning allows computers to learn patterns from data.,15,Robots can perform repetitive tasks in factories.
+2,Machine learning allows computers to learn patterns from data.,16,Natural language processing helps computers understand human language.
+2,Machine learning allows computers to learn patterns from data.,17,Space exploration helps scientists study planets and stars.
+2,Machine learning allows computers to learn patterns from data.,18,Cybersecurity protects computer systems and digital information.
+2,Machine learning allows computers to learn patterns from data.,19,Books provide information about history science and culture.
+2,Machine learning allows computers to learn patterns from data.,20,Deep learning uses neural networks to process complex data.
+3,Python is a popular programming language for data science.,4,The Earth revolves around the Sun.
+3,Python is a popular programming language for data science.,5,Water is essential for all living organisms.
+3,Python is a popular programming language for data science.,6,Electric vehicles use electric motors instead of traditional engines.
+3,Python is a popular programming language for data science.,7,Cloud computing provides access to computing resources over the internet.
+3,Python is a popular programming language for data science.,8,The internet connects computers and devices around the world.
+3,Python is a popular programming language for data science.,9,Students use online platforms to learn new skills.
+3,Python is a popular programming language for data science.,10,Healthy food provides important nutrients for the human body.
+3,Python is a popular programming language for data science.,11,The ocean contains many different species of marine animals.
+3,Python is a popular programming language for data science.,12,Renewable energy can be produced from sunlight and wind.
+3,Python is a popular programming language for data science.,13,Mobile phones allow people to communicate from different locations.
+3,Python is a popular programming language for data science.,14,Data science combines statistics programming and domain knowledge.
+3,Python is a popular programming language for data science.,15,Robots can perform repetitive tasks in factories.
+3,Python is a popular programming language for data science.,16,Natural language processing helps computers understand human language.
+3,Python is a popular programming language for data science.,17,Space exploration helps scientists study planets and stars.
+3,Python is a popular programming language for data science.,18,Cybersecurity protects computer systems and digital information.
+3,Python is a popular programming language for data science.,19,Books provide information about history science and culture.
+3,Python is a popular programming language for data science.,20,Deep learning uses neural networks to process complex data.
+4,The Earth revolves around the Sun.,5,Water is essential for all living organisms.
+4,The Earth revolves around the Sun.,6,Electric vehicles use electric motors instead of traditional engines.
+4,The Earth revolves around the Sun.,7,Cloud computing provides access to computing resources over the internet.
+4,The Earth revolves around the Sun.,8,The internet connects computers and devices around the world.
+4,The Earth revolves around the Sun.,9,Students use online platforms to learn new skills.
+4,The Earth revolves around the Sun.,10,Healthy food provides important nutrients for the human body.
+4,The Earth revolves around the Sun.,11,The ocean contains many different species of marine animals.
+4,The Earth revolves around the Sun.,12,Renewable energy can be produced from sunlight and wind.
+4,The Earth revolves around the Sun.,13,Mobile phones allow people to communicate from different locations.
+4,The Earth revolves around the Sun.,14,Data science combines statistics programming and domain knowledge.
+4,The Earth revolves around the Sun.,15,Robots can perform repetitive tasks in factories.
+4,The Earth revolves around the Sun.,16,Natural language processing helps computers understand human language.
+4,The Earth revolves around the Sun.,17,Space exploration helps scientists study planets and stars.
+4,The Earth revolves around the Sun.,18,Cybersecurity protects computer systems and digital information.
+4,The Earth revolves around the Sun.,19,Books provide information about history science and culture.
+4,The Earth revolves around the Sun.,20,Deep learning uses neural networks to process complex data.
+5,Water is essential for all living organisms.,6,Electric vehicles use electric motors instead of traditional engines.
+5,Water is essential for all living organisms.,7,Cloud computing provides access to computing resources over the internet.
+5,Water is essential for all living organisms.,8,The internet connects computers and devices around the world.
+5,Water is essential for all living organisms.,9,Students use online platforms to learn new skills.
+5,Water is essential for all living organisms.,10,Healthy food provides important nutrients for the human body.
+5,Water is essential for all living organisms.,11,The ocean contains many different species of marine animals.
+5,Water is essential for all living organisms.,12,Renewable energy can be produced from sunlight and wind.
+5,Water is essential for all living organisms.,13,Mobile phones allow people to communicate from different locations.
+5,Water is essential for all living organisms.,14,Data science combines statistics programming and domain knowledge.
+5,Water is essential for all living organisms.,15,Robots can perform repetitive tasks in factories.
+5,Water is essential for all living organisms.,16,Natural language processing helps computers understand human language.
+5,Water is essential for all living organisms.,17,Space exploration helps scientists study planets and stars.
+5,Water is essential for all living organisms.,18,Cybersecurity protects computer systems and digital information.
+5,Water is essential for all living organisms.,19,Books provide information about history science and culture.
+5,Water is essential for all living organisms.,20,Deep learning uses neural networks to process complex data.
+6,Electric vehicles use electric motors instead of traditional engines.,7,Cloud computing provides access to computing resources over the internet.
+6,Electric vehicles use electric motors instead of traditional engines.,8,The internet connects computers and devices around the world.
+6,Electric vehicles use electric motors instead of traditional engines.,9,Students use online platforms to learn new skills.
+6,Electric vehicles use electric motors instead of traditional engines.,10,Healthy food provides important nutrients for the human body.
+6,Electric vehicles use electric motors instead of traditional engines.,11,The ocean contains many different species of marine animals.
+6,Electric vehicles use electric motors instead of traditional engines.,12,Renewable energy can be produced from sunlight and wind.
+6,Electric vehicles use electric motors instead of traditional engines.,13,Mobile phones allow people to communicate from different locations.
+6,Electric vehicles use electric motors instead of traditional engines.,14,Data science combines statistics programming and domain knowledge.
+6,Electric vehicles use electric motors instead of traditional engines.,15,Robots can perform repetitive tasks in factories.
+6,Electric vehicles use electric motors instead of traditional engines.,16,Natural language processing helps computers understand human language.
+6,Electric vehicles use electric motors instead of traditional engines.,17,Space exploration helps scientists study planets and stars.
+6,Electric vehicles use electric motors instead of traditional engines.,18,Cybersecurity protects computer systems and digital information.
+6,Electric vehicles use electric motors instead of traditional engines.,19,Books provide information about history science and culture.
+6,Electric vehicles use electric motors instead of traditional engines.,20,Deep learning uses neural networks to process complex data.
+7,Cloud computing provides access to computing resources over the internet.,8,The internet connects computers and devices around the world.
+7,Cloud computing provides access to computing resources over the internet.,9,Students use online platforms to learn new skills.
+7,Cloud computing provides access to computing resources over the internet.,10,Healthy food provides important nutrients for the human body.
+7,Cloud computing provides access to computing resources over the internet.,11,The ocean contains many different species of marine animals.
+7,Cloud computing provides access to computing resources over the internet.,12,Renewable energy can be produced from sunlight and wind.
+7,Cloud computing provides access to computing resources over the internet.,13,Mobile phones allow people to communicate from different locations.
+7,Cloud computing provides access to computing resources over the internet.,14,Data science combines statistics programming and domain knowledge.
+7,Cloud computing provides access to computing resources over the internet.,15,Robots can perform repetitive tasks in factories.
+7,Cloud computing provides access to computing resources over the internet.,16,Natural language processing helps computers understand human language.
+7,Cloud computing provides access to computing resources over the internet.,17,Space exploration helps scientists study planets and stars.
+7,Cloud computing provides access to computing resources over the internet.,18,Cybersecurity protects computer systems and digital information.
+7,Cloud computing provides access to computing resources over the internet.,19,Books provide information about history science and culture.
+7,Cloud computing provides access to computing resources over the internet.,20,Deep learning uses neural networks to process complex data.
+8,The internet connects computers and devices around the world.,9,Students use online platforms to learn new skills.
+8,The internet connects computers and devices around the world.,10,Healthy food provides important nutrients for the human body.
+8,The internet connects computers and devices around the world.,11,The ocean contains many different species of marine animals.
+8,The internet connects computers and devices around the world.,12,Renewable energy can be produced from sunlight and wind.
+8,The internet connects computers and devices around the world.,13,Mobile phones allow people to communicate from different locations.
+8,The internet connects computers and devices around the world.,14,Data science combines statistics programming and domain knowledge.
+8,The internet connects computers and devices around the world.,15,Robots can perform repetitive tasks in factories.
+8,The internet connects computers and devices around the world.,16,Natural language processing helps computers understand human language.
+8,The internet connects computers and devices around the world.,17,Space exploration helps scientists study planets and stars.
+8,The internet connects computers and devices around the world.,18,Cybersecurity protects computer systems and digital information.
+8,The internet connects computers and devices around the world.,19,Books provide information about history science and culture.
+8,The internet connects computers and devices around the world.,20,Deep learning uses neural networks to process complex data.
+9,Students use online platforms to learn new skills.,10,Healthy food provides important nutrients for the human body.
+9,Students use online platforms to learn new skills.,11,The ocean contains many different species of marine animals.
+9,Students use online platforms to learn new skills.,12,Renewable energy can be produced from sunlight and wind.
+9,Students use online platforms to learn new skills.,13,Mobile phones allow people to communicate from different locations.
+9,Students use online platforms to learn new skills.,14,Data science combines statistics programming and domain knowledge.
+9,Students use online platforms to learn new skills.,15,Robots can perform repetitive tasks in factories.
+9,Students use online platforms to learn new skills.,16,Natural language processing helps computers understand human language.
+9,Students use online platforms to learn new skills.,17,Space exploration helps scientists study planets and stars.
+9,Students use online platforms to learn new skills.,18,Cybersecurity protects computer systems and digital information.
+9,Students use online platforms to learn new skills.,19,Books provide information about history science and culture.
+9,Students use online platforms to learn new skills.,20,Deep learning uses neural networks to process complex data.
+10,Healthy food provides important nutrients for the human body.,11,The ocean contains many different species of marine animals.
+10,Healthy food provides important nutrients for the human body.,12,Renewable energy can be produced from sunlight and wind.
+10,Healthy food provides important nutrients for the human body.,13,Mobile phones allow people to communicate from different locations.
+10,Healthy food provides important nutrients for the human body.,14,Data science combines statistics programming and domain knowledge.
+10,Healthy food provides important nutrients for the human body.,15,Robots can perform repetitive tasks in factories.
+10,Healthy food provides important nutrients for the human body.,16,Natural language processing helps computers understand human language.
+10,Healthy food provides important nutrients for the human body.,17,Space exploration helps scientists study planets and stars.
+10,Healthy food provides important nutrients for the human body.,18,Cybersecurity protects computer systems and digital information.
+10,Healthy food provides important nutrients for the human body.,19,Books provide information about history science and culture.
+10,Healthy food provides important nutrients for the human body.,20,Deep learning uses neural networks to process complex data.
+11,The ocean contains many different species of marine animals.,12,Renewable energy can be produced from sunlight and wind.
+11,The ocean contains many different species of marine animals.,13,Mobile phones allow people to communicate from different locations.
+11,The ocean contains many different species of marine animals.,14,Data science combines statistics programming and domain knowledge.
+11,The ocean contains many different species of marine animals.,15,Robots can perform repetitive tasks in factories.
+11,The ocean contains many different species of marine animals.,16,Natural language processing helps computers understand human language.
+11,The ocean contains many different species of marine animals.,17,Space exploration helps scientists study planets and stars.
+11,The ocean contains many different species of marine animals.,18,Cybersecurity protects computer systems and digital information.
+11,The ocean contains many different species of marine animals.,19,Books provide information about history science and culture.
+11,The ocean contains many different species of marine animals.,20,Deep learning uses neural networks to process complex data.
+12,Renewable energy can be produced from sunlight and wind.,13,Mobile phones allow people to communicate from different locations.
+12,Renewable energy can be produced from sunlight and wind.,14,Data science combines statistics programming and domain knowledge.
+12,Renewable energy can be produced from sunlight and wind.,15,Robots can perform repetitive tasks in factories.
+12,Renewable energy can be produced from sunlight and wind.,16,Natural language processing helps computers understand human language.
+12,Renewable energy can be produced from sunlight and wind.,17,Space exploration helps scientists study planets and stars.
+12,Renewable energy can be produced from sunlight and wind.,18,Cybersecurity protects computer systems and digital information.
+12,Renewable energy can be produced from sunlight and wind.,19,Books provide information about history science and culture.
+12,Renewable energy can be produced from sunlight and wind.,20,Deep learning uses neural networks to process complex data.
+13,Mobile phones allow people to communicate from different locations.,14,Data science combines statistics programming and domain knowledge.
+13,Mobile phones allow people to communicate from different locations.,15,Robots can perform repetitive tasks in factories.
+13,Mobile phones allow people to communicate from different locations.,16,Natural language processing helps computers understand human language.
+13,Mobile phones allow people to communicate from different locations.,17,Space exploration helps scientists study planets and stars.
+13,Mobile phones allow people to communicate from different locations.,18,Cybersecurity protects computer systems and digital information.
+13,Mobile phones allow people to communicate from different locations.,19,Books provide information about history science and culture.
+13,Mobile phones allow people to communicate from different locations.,20,Deep learning uses neural networks to process complex data.
+14,Data science combines statistics programming and domain knowledge.,15,Robots can perform repetitive tasks in factories.
+14,Data science combines statistics programming and domain knowledge.,16,Natural language processing helps computers understand human language.
+14,Data science combines statistics programming and domain knowledge.,17,Space exploration helps scientists study planets and stars.
+14,Data science combines statistics programming and domain knowledge.,18,Cybersecurity protects computer systems and digital information.
+14,Data science combines statistics programming and domain knowledge.,19,Books provide information about history science and culture.
+14,Data science combines statistics programming and domain knowledge.,20,Deep learning uses neural networks to process complex data.
+15,Robots can perform repetitive tasks in factories.,16,Natural language processing helps computers understand human language.
+15,Robots can perform repetitive tasks in factories.,17,Space exploration helps scientists study planets and stars.
+15,Robots can perform repetitive tasks in factories.,18,Cybersecurity protects computer systems and digital information.
+15,Robots can perform repetitive tasks in factories.,19,Books provide information about history science and culture.
+15,Robots can perform repetitive tasks in factories.,20,Deep learning uses neural networks to process complex data.
+16,Natural language processing helps computers understand human language.,17,Space exploration helps scientists study planets and stars.
+16,Natural language processing helps computers understand human language.,18,Cybersecurity protects computer systems and digital information.
+16,Natural language processing helps computers understand human language.,19,Books provide information about history science and culture.
+16,Natural language processing helps computers understand human language.,20,Deep learning uses neural networks to process complex data.
+17,Space exploration helps scientists study planets and stars.,18,Cybersecurity protects computer systems and digital information.
+17,Space exploration helps scientists study planets and stars.,19,Books provide information about history science and culture.
+17,Space exploration helps scientists study planets and stars.,20,Deep learning uses neural networks to process complex data.
+18,Cybersecurity protects computer systems and digital information.,19,Books provide information about history science and culture.
+18,Cybersecurity protects computer systems and digital information.,20,Deep learning uses neural networks to process complex data.
+19,Books provide information about history science and culture.,20,Deep learning uses neural networks to process complex data.
